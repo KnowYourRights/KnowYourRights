@@ -1,5 +1,7 @@
 # Know Your Rights
 
+[Know Your Rights!](https://KnowYourRights.github.io)
+
 This is a public service announcement
 
 With guitar
